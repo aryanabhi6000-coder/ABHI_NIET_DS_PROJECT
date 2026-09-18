@@ -1,4 +1,5 @@
-# Student Admission Record Management System
+@Amleshwar08
+Student Admission Record Management System
 
 A Windows XP styled GUI application for managing university student records.
 
